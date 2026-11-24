@@ -1,0 +1,13 @@
+
+{
+  "planos": [
+    {
+      "nome": "Essencial",
+      "valor": 99
+    },
+    {
+      "nome": "Move Plus",
+      "valor": 179
+    }
+  ]
+}
